@@ -16,6 +16,6 @@ For execution you can use
 > ./calc "input query"
 
 **Note:** for gdb you can use 
-> gdb calc --args "input query"
+> gdb --args calc "input query"
 
 <img src="https://github.com/tamizh3110/s-expression-calculator/blob/master/output_screenshot.png"></img>
